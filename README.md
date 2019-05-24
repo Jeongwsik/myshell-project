@@ -6,7 +6,11 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 
+
+
 #define MAX_LEN_LINE    10
+
+
 
 int main(void)
 {
